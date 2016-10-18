@@ -1,0 +1,3 @@
+/Users/supermaja/Coding/magisterka/Swift_IDE/ExampleApp/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.pas
+/Users/supermaja/Coding/magisterka/Swift_IDE/ExampleApp/bin/Debug/iOS Simulator/ExampleApp
+/Users/supermaja/Coding/magisterka/Swift_IDE/ExampleApp/obj/Debug/iOS Simulator/ExampleApp

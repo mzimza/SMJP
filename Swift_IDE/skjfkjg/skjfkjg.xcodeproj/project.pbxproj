@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		EC3434DF09533F0DA7627742 /* sdgsmg,.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "sdgsmg,.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		EC343063EFA1DC136E3311B9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EC343AC416CD9893621D8883 = {
+			isa = PBXGroup;
+			children = (
+				EC343063EFA1DC136E3311B9 /* Products */,
+				EC3434DF09533F0DA7627742 /* sdgsmg,.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		EC343452DE86370009B16607 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = EC343F67316883E6AFF3C1BB /* Build configuration list for PBXProject "skjfkjg" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = EC343AC416CD9893621D8883;
+			productRefGroup = EC343063EFA1DC136E3311B9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		EC3438334583E16CB447D07E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+		EC343860B8E6A0C582FD7FA3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EC343F67316883E6AFF3C1BB /* Build configuration list for PBXProject "skjfkjg" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC343860B8E6A0C582FD7FA3 /* Debug */,
+				EC3438334583E16CB447D07E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EC343452DE86370009B16607 /* Project object */;
+}

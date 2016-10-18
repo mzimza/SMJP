@@ -1,0 +1,9 @@
+
+<Project xmlns='http://schemas.microsoft.com/developer/msbuild/2003'>
+    <PropertyGroup>
+        <CrossBoxDevice>iOS Device</CrossBoxDevice>
+        <CrossBoxDeviceID>aa4839f80c0070adf63f9ac399c32a8c06750328</CrossBoxDeviceID>
+        <ProvisioningProfile>f0940cf3-a71e-4a0d-96d6-f1e761235b7b</ProvisioningProfile>
+        <ProvisioningProfileName>iOS Team Provisioning Profile: mzimza.saleCatcher</ProvisioningProfileName>
+    </PropertyGroup>
+</Project>

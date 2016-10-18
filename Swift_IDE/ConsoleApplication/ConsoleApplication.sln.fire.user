@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DebugInspectorExpanded_Locals</key>
+	<true/>
+	<key>DebugInspectorExpanded_|Exception State Registers</key>
+	<true/>
+	<key>DebugInspectorExpanded_|Floating Point Registers</key>
+	<true/>
+	<key>DebugPaneActiveTab</key>
+	<real>1</real>
+	<key>DebuggerSplitterCollapsed</key>
+	<false/>
+	<key>FolderExpanded_ConsoleApplication_file:///Users/supermaja/Coding/magisterka/Swift_IDE/ConsoleApplication/ConsoleApplication.elements_file:///Users/supermaja/Coding/magisterka/Swift_IDE/ConsoleApplication/</key>
+	<true/>
+	<key>LastBuildStatusLabel</key>
+	<string>Last build was successful</string>
+	<key>NavigationPaneActiveTab</key>
+	<real>0.0</real>
+	<key>Properties</key>
+	<dict/>
+	<key>SelectedNode</key>
+	<string>file:///Users/supermaja/Coding/magisterka/Swift_IDE/ConsoleApplication/ConsoleApplication.elements_file:///Users/supermaja/Coding/magisterka/Swift_IDE/ConsoleApplication/Program.swift</string>
+	<key>ViewMetaData</key>
+	<dict>
+		<key>/Users/supermaja/Coding/magisterka/Swift_IDE/ConsoleApplication/ConsoleApplication.sln---BuildLog</key>
+		<dict>
+			<key>CursorX</key>
+			<integer>0</integer>
+			<key>CursorY</key>
+			<integer>0</integer>
+			<key>ScrollX</key>
+			<real>0.0</real>
+			<key>ScrollY</key>
+			<real>367</real>
+			<key>ScrolledToBottom</key>
+			<true/>
+			<key>SelectionCursorUndecided</key>
+			<false/>
+			<key>SelectionEndColumn</key>
+			<integer>0</integer>
+			<key>SelectionEndLine</key>
+			<integer>0</integer>
+			<key>SelectionIsLinear</key>
+			<false/>
+			<key>SelectionStartColumn</key>
+			<integer>0</integer>
+			<key>SelectionStartLine</key>
+			<integer>-1</integer>
+		</dict>
+		<key>file:///Users/supermaja/Coding/magisterka/Swift_IDE/ConsoleApplication/ConsoleApplication.elements_file:///Users/supermaja/Coding/magisterka/Swift_IDE/ConsoleApplication/Program.swift</key>
+		<dict>
+			<key>CursorX</key>
+			<integer>0</integer>
+			<key>CursorY</key>
+			<integer>6</integer>
+			<key>ScrollX</key>
+			<real>0.0</real>
+			<key>ScrollY</key>
+			<real>0.0</real>
+			<key>SelectionCursorUndecided</key>
+			<false/>
+			<key>SelectionEndColumn</key>
+			<integer>0</integer>
+			<key>SelectionEndLine</key>
+			<integer>0</integer>
+			<key>SelectionIsLinear</key>
+			<false/>
+			<key>SelectionStartColumn</key>
+			<integer>0</integer>
+			<key>SelectionStartLine</key>
+			<integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Window_Fullscreen</key>
+	<false/>
+	<key>Window_Height</key>
+	<real>713</real>
+	<key>Window_Width</key>
+	<real>912</real>
+	<key>Window_X</key>
+	<real>30</real>
+	<key>Window_Y</key>
+	<real>17</real>
+</dict>
+</plist>
