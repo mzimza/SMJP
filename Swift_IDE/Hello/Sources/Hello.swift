@@ -1,5 +1,5 @@
 struct Hello {
 
     var text = "Hello, World Again!"
-    var howMany = 4
+    var howMany = 42
 }
