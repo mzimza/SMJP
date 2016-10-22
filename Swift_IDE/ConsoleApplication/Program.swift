@@ -15,4 +15,24 @@ for i in 1...10 {
 
 }
 
+struct Hello {
+	var text = "Hello!"
+	var howMany = 4
+}
+
+var h = Hello()
+
+func sayHello() {
+	for i in 1...h.howMany {
+		print(h.text)
+	}
+}
+
+sayHello()
+
+var arr = NSArray()
+
+
+	
+	
 	

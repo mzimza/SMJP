@@ -12,6 +12,8 @@
 	<real>1</real>
 	<key>DebuggerSplitterCollapsed</key>
 	<false/>
+	<key>FolderExpanded_ConsoleApplication_file:///Users/supermaja/Coding/magisterka/SMJP/Swift_IDE/ConsoleApplication/ConsoleApplication.elements_file:///Users/supermaja/Coding/magisterka/SMJP/Swift_IDE/ConsoleApplication/</key>
+	<true/>
 	<key>FolderExpanded_ConsoleApplication_file:///Users/supermaja/Coding/magisterka/Swift_IDE/ConsoleApplication/ConsoleApplication.elements_file:///Users/supermaja/Coding/magisterka/Swift_IDE/ConsoleApplication/</key>
 	<true/>
 	<key>LastBuildStatusLabel</key>
@@ -21,7 +23,7 @@
 	<key>Properties</key>
 	<dict/>
 	<key>SelectedNode</key>
-	<string>file:///Users/supermaja/Coding/magisterka/Swift_IDE/ConsoleApplication/ConsoleApplication.elements_file:///Users/supermaja/Coding/magisterka/Swift_IDE/ConsoleApplication/Program.swift</string>
+	<string>file:///Users/supermaja/Coding/magisterka/SMJP/Swift_IDE/ConsoleApplication/ConsoleApplication.elements_file:///Users/supermaja/Coding/magisterka/SMJP/Swift_IDE/ConsoleApplication/Program.swift</string>
 	<key>ViewMetaData</key>
 	<dict>
 		<key>/Users/supermaja/Coding/magisterka/Swift_IDE/ConsoleApplication/ConsoleApplication.sln---BuildLog</key>
@@ -36,6 +38,29 @@
 			<real>367</real>
 			<key>ScrolledToBottom</key>
 			<true/>
+			<key>SelectionCursorUndecided</key>
+			<false/>
+			<key>SelectionEndColumn</key>
+			<integer>0</integer>
+			<key>SelectionEndLine</key>
+			<integer>0</integer>
+			<key>SelectionIsLinear</key>
+			<false/>
+			<key>SelectionStartColumn</key>
+			<integer>0</integer>
+			<key>SelectionStartLine</key>
+			<integer>-1</integer>
+		</dict>
+		<key>file:///Users/supermaja/Coding/magisterka/SMJP/Swift_IDE/ConsoleApplication/ConsoleApplication.elements_file:///Users/supermaja/Coding/magisterka/SMJP/Swift_IDE/ConsoleApplication/Program.swift</key>
+		<dict>
+			<key>CursorX</key>
+			<integer>0</integer>
+			<key>CursorY</key>
+			<integer>26</integer>
+			<key>ScrollX</key>
+			<real>0.0</real>
+			<key>ScrollY</key>
+			<real>318</real>
 			<key>SelectionCursorUndecided</key>
 			<false/>
 			<key>SelectionEndColumn</key>
@@ -69,6 +94,29 @@
 			<false/>
 			<key>SelectionStartColumn</key>
 			<integer>0</integer>
+			<key>SelectionStartLine</key>
+			<integer>-1</integer>
+		</dict>
+		<key>type=&lt;Global&gt;</key>
+		<dict>
+			<key>CursorX</key>
+			<integer>0</integer>
+			<key>CursorY</key>
+			<integer>26</integer>
+			<key>ScrollX</key>
+			<real>0.0</real>
+			<key>ScrollY</key>
+			<real>281</real>
+			<key>SelectionCursorUndecided</key>
+			<false/>
+			<key>SelectionEndColumn</key>
+			<integer>-1</integer>
+			<key>SelectionEndLine</key>
+			<integer>-1</integer>
+			<key>SelectionIsLinear</key>
+			<true/>
+			<key>SelectionStartColumn</key>
+			<integer>-1</integer>
 			<key>SelectionStartLine</key>
 			<integer>-1</integer>
 		</dict>
