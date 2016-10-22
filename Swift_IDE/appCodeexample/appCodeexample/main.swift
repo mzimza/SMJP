@@ -11,3 +11,25 @@ import Foundation
 
 print("Hello, World!")
 
+struct Hello {
+    var text = "Hello!"
+    var howMany = 4
+}
+
+func sayHello() {
+    var h = Hello()
+    for i in 1...h.howMany {
+        print(h.text)
+    }
+}
+
+sayHello()
+
+for i in 1...10 {
+
+}
+//TODO documentation
+
+
+var arr = NSArray()
+var str = String("test")
