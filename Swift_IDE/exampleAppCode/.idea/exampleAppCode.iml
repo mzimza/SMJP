@@ -4,16 +4,16 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/exampleAppCode/ModelController.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exampleAppCode/AppDelegate.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/exampleAppCode/DataViewController.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exampleAppCode/RootViewController.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/exampleAppCode/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exampleAppCode/DataViewController.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exampleAppCode/Assets.xcassets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exampleAppCode/Info.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exampleAppCode/Base.lproj/LaunchScreen.storyboard" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exampleAppCode/Base.lproj/Main.storyboard" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/exampleAppCodeTests/exampleAppCodeTests.swift" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/exampleAppCodeTests/Info.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exampleAppCodeUITests/Info.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exampleAppCodeUITests/exampleAppCodeUITests.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exampleAppCodeTests/exampleAppCodeTests.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exampleAppCodeTests/Info.plist" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">

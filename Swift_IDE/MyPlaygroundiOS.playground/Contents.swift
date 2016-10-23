@@ -14,3 +14,7 @@ func fibo(n: Int) -> Int {
 for i in 1...10 {
     print( fibo(n: i))
 }
+
+
+var arr = ["kot", "lew", "ryś"]
+print(arr[1])
